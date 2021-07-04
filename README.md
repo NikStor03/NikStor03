@@ -1,6 +1,7 @@
 ### Hi, I'm @NikStor03 👋
 
-I'm program Pytohn
+I'm Python programmer.
+I know Discord/Telegram bots, Django, requests, PyGame, cv2, Pillow, etc.
 
 My discord: [🍀 NikStor 🌿#3003](https://discord.gg/adXxNAp)
 
